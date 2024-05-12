@@ -1,14 +1,5 @@
-### Hi there 👋
-
-<!--
-**Tarekegn10/Tarekegn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
-👋 Hi, I’m Tarekegn_Tadele<br>
-👀 I’m interested in Web development and graphics design and Animation.<br>
-🌱 I’m currently learning computer science and Animation/blender.org/.<br>
-💞️ I’m looking to collaborate on any problem solving tasks<br>
-📫 You can contact me on <br> Link din www.linkedin.com/in/tarekegn-tadele-892880297/
+👋 Hi, I’m Tarekegn_Tadele<br>👀 I’m interested in Web development and graphics design and Animation.<br>🌱 I’m currently learning computer science and Animation/blender.org/.<br>💞️ I’m looking to collaborate on any problem solving tasks<br>📫 You can contact me on <br> Link din www.linkedin.com/in/tarekegn-tadele-892880297/
 
 
 ## 🌐 Socials:
@@ -20,8 +11,16 @@
 ![](https://github-readme-stats.vercel.app/api?username=Tarekegn10&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tarekegn10&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarekegn10&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tarekegn10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Tarekegn10&icon=0&color=0)](https://visitcount.itsvg.in)
 
