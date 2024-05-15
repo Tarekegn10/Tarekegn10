@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tarekegn+Tadel!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Ethiopia Addis Ababa</h3>
+<h3 align="center">A passionate Full stack developer from Ethiopia Addis Ababa</h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 👋 Hi, I’m **TAREKEGN TADELE**
 
- 👀 I’m interested in Full software Development and Animation.**
+ 👀 I’m interested in Full stack Development and Animation.**
  
 💞️ I’m looking to collaborate on tasks requiring problem solving, creativity.
  
@@ -28,14 +28,11 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:TarekegnTadeleG2mail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href=[http://www.linkedin.com/in/kidist-berhanu-90bba0292](https://www.linkedin.com/in/tarekegn-tadele-892880297/)>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
