@@ -9,12 +9,17 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+👋 Hi, I’m **TAREKEGN TADELE**
+
+ 👀 I’m interested in Full stack Development and Animation.**
+ 
+💞️ I’m looking to collaborate on tasks requiring problem solving, creativity.
+ 
+ 🌱 I’m currently learning **computer science.** and **Blender.org 3D Animation** 
+
+💬 Ask me about **C++, Php, Flasck... or anything [here]
+(https://github.com/Tarekegn10)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
