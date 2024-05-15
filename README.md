@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **computer science.** and **Blender.org 3D Animation** 
 
-💬 Ask me about **C++, Php, Flasck... or anything [here]
+💬 Ask me about **C++, Php, Flask’... or anything [here]
 (https://github.com/Tarekegn10)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
