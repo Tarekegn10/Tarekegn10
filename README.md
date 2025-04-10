@@ -26,21 +26,7 @@
 [http://www.linkedin.com/in/kidist-berhanu-90bba0292](https://www.linkedin.com/in/tarekegn-tadele-892880297/)
 
  </div>
- 
-<div align="center"> 
-  <a href="mailto:TarekegnTadeleG2mail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href=[http://www.linkedin.com/in/kidist-berhanu-90bba0292](https://www.linkedin.com/in/tarekegn-tadele-892880297/)>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
 </div>
 
 <hr/>
