@@ -11,7 +11,7 @@
 
 👋 Hi, I’m **TAREKEGN TADELE**
 
- 👀 I’m interested in Full stack Development and Animation.**
+ 👀 I’m interested in Front-end Developer and Animation.**
  
 💞️ I’m looking to collaborate on tasks requiring problem solving, creativity.
  
