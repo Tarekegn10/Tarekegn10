@@ -20,8 +20,6 @@
 💬 Ask me about **C++, Php, Flask’... or anything [here]
 (https://github.com/Tarekegn10)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
 📫 How to reach me
 [http://www.linkedin.com/in/kidist-berhanu-90bba0292](https://www.linkedin.com/in/tarekegn-tadele-892880297/)
 
